@@ -35,6 +35,8 @@ Agile and Waterfall are two widely used software development methodologies, each
 1. **Agile Methodology** follows an iterative and incremental approach. Development is divided into small, manageable sprints, usually lasting two to four weeks, where teams continuously develop, test, and refine the product. Agile allows for frequent feedback, making it highly adaptable to changing requirements. This methodology promotes collaboration between developers, stakeholders, and customers, ensuring that the end product aligns with evolving business needs. However, Agile can be unpredictable in terms of time and cost since requirements may change frequently. It also requires strong communication and discipline from team members to be effective.
 
 2. **Waterfall Methodology,** on the other hand, is a linear and sequential approach. The project is divided into distinct phases: requirements gathering, design, implementation, testing, deployment, and maintenance. Each phase must be completed before moving to the next, making it a well-structured process. Waterfall is best suited for projects with well-defined requirements that are unlikely to change. Its structured nature ensures thorough documentation, which is beneficial for large-scale projects or industries requiring regulatory compliance. However, this rigidity makes it difficult to adapt if changes are needed mid-project. Testing occurs late in the cycle, which can lead to costly fixes if major issues are found.
+
+   
 **## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?**
 **Agile is Better for:**
 1. Projects with frequently changing requirements.
